@@ -1,0 +1,6 @@
+[submodule "Bayesian-Inference"]
+	path = Bayesian-Inference
+	url = https://github.com/WeiLiangXMU/Bayesian-Inference.git
+[submodule "MLinQCbook22-KMs"]
+	path = MLinQCbook22-KMs
+	url = https://github.com/maxjr82/MLinQCbook22-KMs.git
