@@ -1,1 +1,2 @@
-# MLinQC22
+# Repository for the case studies
+
