@@ -4,3 +4,6 @@
 [submodule "MLinQCbook22-KMs"]
 	path = MLinQCbook22-KMs
 	url = https://github.com/maxjr82/MLinQCbook22-KMs.git
+[submodule "MLinQCbook22-NN"]
+	path = MLinQCbook22-NN
+	url = https://github.com/dralgroup/MLinQCbook22-NN.git
