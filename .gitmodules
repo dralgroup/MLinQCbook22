@@ -1,9 +1,12 @@
-[submodule "Bayesian-Inference"]
-	path = Bayesian-Inference
-	url = https://github.com/WeiLiangXMU/Bayesian-Inference.git
-[submodule "MLinQCbook22-KMs"]
-	path = MLinQCbook22-KMs
-	url = https://github.com/maxjr82/MLinQCbook22-KMs.git
+[submodule "MLinQCbook22-NN"]
+ 	path = MLinQCbook22-SQM
+ 	url = https://github.com/dralgroup/MLinQCbook22-SQM.git
 [submodule "MLinQCbook22-NN"]
 	path = MLinQCbook22-NN
 	url = https://github.com/dralgroup/MLinQCbook22-NN.git
+[submodule "MLinQCbook22-KMs"]
+	path = MLinQCbook22-KMs
+	url = https://github.com/maxjr82/MLinQCbook22-KMs.git
+[submodule "Bayesian-Inference"]
+	path = Bayesian-Inference
+	url = https://github.com/WeiLiangXMU/Bayesian-Inference.git
