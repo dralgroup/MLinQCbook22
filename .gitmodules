@@ -10,3 +10,6 @@
 [submodule "Bayesian-Inference"]
 	path = Bayesian-Inference
 	url = https://github.com/WeiLiangXMU/Bayesian-Inference.git
+[submodule "MLinQCbook22-SQM"]
+	path = MLinQCbook22-SQM
+	url = https://github.com/dralgroup/MLinQCbook22-SQM
