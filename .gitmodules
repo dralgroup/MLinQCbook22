@@ -13,3 +13,6 @@
 [submodule "MLinQCbook22-SQM"]
 	path = MLinQCbook22-SQM
 	url = https://github.com/dralgroup/MLinQCbook22-SQM
+[submodule "MLinQCbook22-delta"]
+	path = MLinQCbook22-delta
+	url = https://github.com/diphosphane/MLinQCbook22-delta
