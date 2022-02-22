@@ -16,3 +16,6 @@
 [submodule "MLinQCbook22-delta"]
 	path = MLinQCbook22-delta
 	url = https://github.com/diphosphane/MLinQCbook22-delta
+[submodule "MLinQCbook22-CH04"]
+	path = MLinQCbook22-CH04
+	url = https://github.com/bili0501/MLinQCbook22-CH04.git
