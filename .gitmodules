@@ -19,3 +19,6 @@
 [submodule "MLinQCbook22-delta"]
 	path = MLinQCbook22-delta
 	url = https://github.com/dralgroup/MLinQCbook22-delta.git
+[submodule "MLinQCbook22-KMP"]
+	path = MLinQCbook22-KMP
+	url = https://github.com/dralgroup/MLinQCbook22-KMP.git
