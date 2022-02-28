@@ -15,6 +15,6 @@ git submodule update    # pull sub-module
 ```
 
 ### Updating the sub-module 
-If you find some disagreement or incomplete in sub-module, it would be the reason that the original author updated the sub-repo (sub-module), you can enter the directory of that sub-module, then execute `git pull`, if the problem sitll exists, feel free to contact us. 
+If you find some disagreement or incomplete in sub-module, it would be the reason that the original author updated the sub-repo (sub-module), you can enter the directory of that sub-module, then execute `git pull origin main` or `git pull origin master` (if previous command prompts error), if the problem sitll exists, feel free to contact us. 
 
 
