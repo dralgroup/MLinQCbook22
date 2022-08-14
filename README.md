@@ -1,4 +1,4 @@
-# Mirror of the companion website for Quantum Chemistry in the Age of Machine Learning edited by Pavlo O. Dral
+# Mirror of the [companion website](https://www.elsevier.com/books-and-journals/book-companion/9780323900492) for Quantum Chemistry in the Age of Machine Learning edited by Pavlo O. Dral
 
 [Quantum Chemistry in the Age of Machine Learning](https://www.elsevier.com/books/Quantum%20Chemistry%20in%20the%20Age%20of%20Machine%20Learning/9780323900492) (paperback ISBN: 9780323900492) is a book edited by [Pavlo O. Dral](http://dr-dral.com). 
 
@@ -56,7 +56,7 @@ https://github.com/maxjr82/MLinQCbook16-NAMD
 https://github.com/sergeimanzhos/QCAML
 
 ### Chapter 17. Molecular structure optimizations with Gaussian process regression by Roland Lindh and Ignacio Fernández Galván
-Can be downloaded from the companion website (link will be provided later).
+Download from the companion website: https://www.elsevier.com/__data/assets/file/0005/1295033/part2-chapter17files.zip
 
 ## Part 3. Machine learning of quantum chemical properties
 ### Chapter 18. Learning electron densities by Bruno Cuevas-Zuviría
